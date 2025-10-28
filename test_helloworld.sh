@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Unit tests for helloworld program
+# Unit tests for helloworld program test
 
 # Color codes for output
 RED='\033[0;31m'
